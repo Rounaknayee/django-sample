@@ -1,2 +1,2 @@
 # django-sample
-It is a sample django project based project for beginners
+It is a sample django based project for beginners
